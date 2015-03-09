@@ -1,18 +1,18 @@
 /*!
- * ks-form - v0.0.0 - 2015-03-05
- * https://github.com/ks-frontend/ks-form
+ * iknsa-form-2016 - v0.0.0 - 2015-03-09
+ * https://github.com/iknsa-themes/iknsa-form-2016
  * Copyright (c) 2015 
  * Licensed ISC
  */
 form.form-pro-theme div {
   margin-bottom: 20px;
 }
-/* line 9, ../../../../lib/scss/iknsa-2016-form.scss */
+/* line 9, ../../../../lib/scss/iknsa-form-2016.scss */
 form.form-pro-theme div:last-child {
   margin-bottom: 0;
 }
 
-/* line 15, ../../../../lib/scss/iknsa-2016-form.scss */
+/* line 15, ../../../../lib/scss/iknsa-form-2016.scss */
 legend {
   width: 100%;
   border-bottom: 3px double #2a85ba;
@@ -21,7 +21,7 @@ legend {
   padding: 5px;
 }
 
-/* line 23, ../../../../lib/scss/iknsa-2016-form.scss */
+/* line 23, ../../../../lib/scss/iknsa-form-2016.scss */
 div.label {
   float: left;
   min-width: 150px;
@@ -29,18 +29,18 @@ div.label {
   margin-right: 50px;
   text-align: right;
 }
-/* line 31, ../../../../lib/scss/iknsa-2016-form.scss */
+/* line 31, ../../../../lib/scss/iknsa-form-2016.scss */
 div.label:after {
   float: none;
   clear: both;
 }
 
-/* line 37, ../../../../lib/scss/iknsa-2016-form.scss */
+/* line 37, ../../../../lib/scss/iknsa-form-2016.scss */
 input[type=file] {
   margin-bottom: 20px;
 }
 
-/* line 42, ../../../../lib/scss/iknsa-2016-form.scss */
+/* line 42, ../../../../lib/scss/iknsa-form-2016.scss */
 input[type=radio], input[type=checkbox] {
   margin: 0 20px 0 10px;
 }
